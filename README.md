@@ -22,6 +22,8 @@ Here, I share my journey in *coding*, *artificial intelligence*, and *data visua
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@ezgiiozturk03)
 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ezgiiozturk03)
+
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ezgicode)
 <!--
 **Ezgicode/Ezgicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
