@@ -15,6 +15,7 @@ Here, I share my journey in *coding*, *artificial intelligence*, and *data visua
 🌍 Open to collaborating on impactful projects that make a difference.
 
 📫 How to reach me: 
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ezgi-öztürk-)
 
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@ezgiiozturk03)
