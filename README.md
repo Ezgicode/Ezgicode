@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my corner of the digital world.
+## Hi there 👋 Welcome to my corner of the Digital World.
 ![Ben](https://media1.tenor.com/m/heA9KuvviGwAAAAd/tony-stark-iron-man.gif)
                               
                                🌟 ABOUT ME 🌟
