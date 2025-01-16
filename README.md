@@ -8,10 +8,11 @@ Here, I share my journey in *coding*, *artificial intelligence*, and *data visua
 
  🔭 I’m currently a 3rd-year Computer Engineering student, exploring **Data Science** and **Machine Learning**.
   
-🌱 I’m currently learning:
+🌱 I’m currently focusing on learning:
  . Advanced Deep Learning techniques
  . Tools like TensorFlow and PyTorch
-
+ . Practical data visualization in AI projects
+ 
 🌍 Open to collaborating on impactful projects that make a difference.
 
 📫 How to reach me: 
