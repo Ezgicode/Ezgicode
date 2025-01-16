@@ -3,6 +3,7 @@ I'm *Ezgi* a passionate *Computer Engineering Student* with a love for technolog
 
 Here, I share my journey in *coding*, *artificial intelligence*, and *data visualization* while exploring the endless possibilities of technology.
 
+![Ben](https://media1.tenor.com/m/heA9KuvviGwAAAAd/tony-stark-iron-man.gif)
 
 <!--
 **Ezgicode/Ezgicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
