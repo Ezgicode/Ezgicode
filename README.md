@@ -1,5 +1,6 @@
 ## Hi there 👋 Welcome to my corner of the digital world.
 ![Ben](https://media1.tenor.com/m/heA9KuvviGwAAAAd/tony-stark-iron-man.gif)
+                              
                                🌟 About Me
 I'm *Ezgi* a passionate *Computer Engineering Student* with a love for technology innovation and creativity.
 
