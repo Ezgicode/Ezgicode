@@ -4,7 +4,7 @@
 
 Computer Engineering student at Düzce University (English-taught, graduating Jan 2027) working on **machine learning and computer vision**, with a growing interest in trustworthy AI. EU citizen, open to relocation.
 
-🌐 [Portfolio](https://ezgiportfolio.vercel.app) · 📄 [CV](https://ezgiportfolio.vercel.app/Ezgi_Ozturk_CV.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/ezgi-%C3%B6zt%C3%BCrk-) · ✉️ ezgiiozturk03@hotmail.com
+🌐 [Portfolio](https://ezgiportfolio.vercel.app) · 📄 [CV](https://ezgiportfolio.vercel.app/Ezgi_Ozturk_CV.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/ezgi-%C3%B6zt%C3%BCrk-) 
 
 ---
 
