@@ -1,39 +1,34 @@
-## Hi there 👋 Welcome to my corner of the Digital World.
-![Ben](https://media1.tenor.com/m/heA9KuvviGwAAAAd/tony-stark-iron-man.gif)
-                              
-                               🌟 ABOUT ME 🌟
-I'm *Ezgi* a passionate *Computer Engineering Student* with a love for technology innovation and creativity.
+### Hi, I'm Ezgi 👋
 
-Here, I share my journey in *coding*, *artificial intelligence*, and *data visualization* while exploring the endless possibilities of technology.My journey revolves around constant learning, creative problem-solving, and building meaningful projects. 🚀
+![Tony Stark](https://media1.tenor.com/m/heA9KuvviGwAAAAd/tony-stark-iron-man.gif)
 
- 🔭 I’m currently a 3rd-year Computer Engineering student, exploring **Data Science** and **Machine Learning**.
-  
-🌱 I’m currently focusing on learning:
- - Advanced Deep Learning techniques
- - Tools like TensorFlow and PyTorch
- - Practical data visualization in AI projects
- 
-🌍 Open to collaborating on impactful projects that make a difference.
+Computer Engineering student at Düzce University (English-taught, graduating Jan 2027) working on **machine learning and computer vision**, with a growing interest in trustworthy AI. EU citizen, open to relocation.
 
-📫 How to reach me: 
+🌐 [Portfolio](https://ezgiportfolio.vercel.app) · 📄 [CV](https://ezgiportfolio.vercel.app/Ezgi_Ozturk_CV.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/ezgi-%C3%B6zt%C3%BCrk-) · ✉️ ezgiiozturk03@hotmail.com
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ezgi-öztürk-)
+---
 
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@ezgiiozturk03)
+#### Selected work
 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ezgiiozturk03)
+| Project | What it does | Result |
+|---|---|---|
+| **ECHO** · graduation thesis | Turkish Sign Language recognition from a webcam, with an original dataset · [details](https://ezgiportfolio.vercel.app/sign-language) | journal article in preparation |
+| [**Content Opportunity Prioritization**](https://github.com/Ezgicode/FlyRAnk-AI) | Ranks 77k web pages for editorial review · FlyRank internship capstone | 2× baseline Precision@50 |
+| [**Cotton Water Estimator**](https://github.com/Ezgicode/Innovation-Campus-cotton_water_estimator) | Daily cotton water-need prediction with FAO-56 + NASA POWER · UN & Samsung Innovation Campus | R² 0.60 → 0.87 |
+| [**Restaurant Automation**](https://github.com/Ezgicode/Restaurant-Automation) | YOLOv8 dish recognition, menu pricing and waiter reports in Flask | 68.4% mAP@50, 100 classes |
+| [**AI internship projects**](https://github.com/Ezgicode/INTERNSHIP) | NLP, vision and audio experiments at Trex Technology | DistilBERT 0.90 F1 |
 
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ezgicode)
-<!--
-**Ezgicode/Ezgicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Experience
 
-Here are some ideas to get you started:
+- **Machine Learning Engineering Intern**, FlyRank · Jul–Oct 2026
+- **AI Intern**, Trex Technology, Bursa · Jun–Aug 2025
 
+#### Tools
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+`Python` `scikit-learn` `PyTorch` `TensorFlow/Keras` `Hugging Face` `YOLOv8` `OpenCV` `MediaPipe` `pandas` `SQL` `Flask` `Streamlit` `Git`
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ezgicode)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ezgiiozturk03)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ezgiiozturk03)
